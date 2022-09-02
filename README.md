@@ -29,6 +29,8 @@ Again, the goal of the writing assignment is for you to present your findings in
 
 For the written analysis, you should use the repository README.md to write your report. The report will contain three sections: an overview of the analysis, results, and summary.
 
+
+
 **Overview of Project:** The purpose of this project is to provide a dynamic webpage that is can be filtered based on specific criteria on UFO sightings Dana is looking for. 
 
 **Results:** Dana can specifically filter by any combination of date, city, state, country, or shape. Simply enter the specific details in the filters on the left side of the page, and press "enter." The results in the table on the right side will reflect the searched criteria.
@@ -36,6 +38,9 @@ For the written analysis, you should use the repository README.md to write your 
 The webpage can be found here: https://tabathamurray.github.io/UFOs/.
 
 **Summary:** One of the main drawbacks is there is no way of knowing what specific parameter to use, and therefore, the end user can wind up with too much data, or too little if trying to use too many filters. Also, because these filters are specific, there is no room for error (typos). Perhaps a drop down filters would be better. This will alleviate any typos Dana, or the end-user, might enter.
+
+
+
 
 The README.md document should be in the home directory of your repository. All links to images should be formatted and displayed where appropriate.
 
