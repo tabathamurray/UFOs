@@ -6,13 +6,11 @@ The objective of this challenge is for you to create multiple search criteria in
 
 For the first deliverable, we are asking you to modify your `index.html` by removing the list element that creates the button to click, and adding four new list elements for city, state, country, and shape.  Then you'll need to capture all the elements, values and ids that are changed when the search criteria are entered and then filter the dataset and render the filtered data on the webpage.  
 
-you might find the tasks in this challenge to be slightly difficult. We have provided [starter code](./Resources/ufo_starterCode.js) that they should download, rename as `app.js`, and place it in the js folder of  your UFOs GitHub repository.  
+you might find the tasks in this challenge to be slightly difficult. We have provided starter code that they should download, rename as `app.js`, and place it in the js folder of  your UFOs GitHub repository.  
 
 **Important:** Make sure they change the name of your `app.js` file used for the module solution before they rename the `ufo_starteCode.js` file.
 
 First, you'll need to modify your `index.html` file to remove the list element that creates the button and create four new list elements for the additonal search criteria. The search criteria should be similar to this image:
-
-![The UFO finder web page with filters for the date, city, state, country, and shape for filtering the data.](./Resources/UFO_challenge_webpage.png)
 
 Next, you'll need to use the starter code to complete the challenge. 
 
